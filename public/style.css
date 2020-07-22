@@ -1,5 +1,5 @@
 .hea { 
-    font-family: 'Patrick Hand', cursive;
+    font-family: 'Tangerine', cursive;
     font-size: 100px;
     color: lightsalmon;
     background-color: whitesmoke;
@@ -8,4 +8,16 @@
    .boi {
     font-family: 'Sriracha', cursive;
     color: saddlebrown;
+    display: inline-block;
+    width: 15%;
+   }
+   .foo{
+    font-family: 'Sriracha', cursive;
+    color: saddlebrown;
+    display: inline;
+   }
+   .heaa { 
+    font-family: 'Tangerine', cursive;
+    font-size: 60px;
+    color: lightsalmon;
    }
